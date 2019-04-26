@@ -13,3 +13,5 @@ wBowNet is an inteconected model of BowNet which two paths are dependent, and th
 
 Name of the architecture is BowNet because of mimicing its shape with a Bow. 
 As one can see, the number of layers and kernels are smaller than VGG16 network; however, our results over several benchmarks revealed that BowNet architecture can be an alternative method for applications with high performance demand while high accuracy is favourite as well. 
+
+We will put examples of this work using Jupyter notebook after publication of our paper!
